@@ -6,7 +6,7 @@
 - [uyghur-language.github.io](https://github.com/uyghur-language/uyghur-language.github.io)
     - Source files of the Okyanus webpage at: [https://uyghur-language.github.io/](https://uyghur-language.github.io/)
 - [uyghur-dictionary](https://github.com/uyghur-language/uyghur-dictionary)
-    - Source text, JSON files of the Uyghur dictionary
+    - Source text, JSON, and the pronunciation audio files of the Uyghur dictionary
 - [names](https://github.com/uyghur-language/names)
     - Text files of the Uyghur names dictionary
 - [uyghur-words](https://github.com/uyghur-language/uyghur-words)
